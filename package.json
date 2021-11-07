@@ -34,5 +34,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Projeto de clonagem de uma page da Netflix usando ReactJs",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadir-figueiredo/netflix_clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadir-figueiredo/netflix_clone/issues"
+  },
+  "homepage": "https://github.com/jadir-figueiredo/netflix_clone#readme"
 }
